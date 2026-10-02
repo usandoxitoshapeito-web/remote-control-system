@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+websockets==13.1
+PyQt6==6.7.1
+Pillow==10.2.0
+python-multipart==0.0.6
+qrcode==7.4.2
